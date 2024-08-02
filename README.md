@@ -17,6 +17,7 @@ Hi there! 👋 I'm Festus Nzuma, a passionate developer and enthusiast of Data S
 - [Whatsapp](+254706815783)
 - [Ticktoc](@tinda_254)
 - [Email](mutindafestus27@gmail.com)
+- [Stackoverflow](https://stackoverflow.com/users/9406005/mutinda-festus)
 
 ## 🛠️ Technologies & Tools
 - **Languages**: R, Python, JavaScript
