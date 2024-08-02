@@ -15,6 +15,7 @@ Hi there! 👋 I'm Festus Nzuma, a passionate developer and enthusiast of Data S
 - [LinkedIn](https://www.linkedin.com/in/festus-nzuma-26580163)
 - [website](https://statisticsguru1.github.io/portfolio/)
 - [Whatsapp](+254706815783)
+- [Ticktoc](@tinda_254)
 - [Email](mutindafestus27@gmail.com)
 
 ## 🛠️ Technologies & Tools
