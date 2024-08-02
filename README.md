@@ -30,4 +30,4 @@ Hi there! 👋 I'm Festus Nzuma, a passionate developer and enthusiast of Data S
 ## 🌟 Featured Repositories
 - [E-Learn](https://github.com/statisticsguru1/E_learn): A statistical calculator app.
 - [Stock Analysis](https://github.com/statisticsguru1/stock-correlapp): An app for performance and correlation-based ranking of stocks.
--[Assocs](https://github.com/statisticsguru1/Assocs): An app for mining association rules from transaction data.
+- [Assocs](https://github.com/statisticsguru1/Assocs): An app for mining association rules from transaction data.
