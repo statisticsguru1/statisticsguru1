@@ -1,6 +1,9 @@
 Hi there! 👋 I'm Festus Nzuma, a passionate developer and enthusiast of Data Science, Web Development, and more. Here’s a little about me and what I’ve been working on.
 
 ## 🔭 Current Projects
+- **Small-and-Medium-Sized-Business-Management-System**: SME management platform that manages inventory, performs shopping basket analysis, and reports business performance indicators (sales, profits, expenditure, etc.)
+- **chama_management**: A comprehesive system for managing Investiment group(chama) operations.
+- **Personal Finance Mananger** A comprehesive webapp to help you manage finances
 - **E-Learn**: A step-by-step statistical calculator app built with Shiny. It includes various statistical modules like t-tests, correlation analysis, and more.
 - **Translation Dictionary**: Developing a translation dictionary between Kamba and English languages.
 - **Automated Forex Trading**: A project based on real-time Forex price collection and ML forecast of future prices.
